@@ -1,0 +1,59 @@
+De Karla/
+De Jose/
+De Emmanuel/
+Server/
+*.log
+*.out
+*.aux
+*.pdf
+
+# git ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+# Visual Studio
+*.suo
+*.user
+obj/
+bin/
+UpgradeLog.XML
+_UpgradeReport_Files/
+
+# Packages
+*.rar
+*.tar
+*.zip
+
+# Compiled 
+#.dll
+*.exe
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+
+#Reshareper
+_ReSharper.SynManagement/
+_ReSharper.ABCList/
+_ReSharper.*/
+#Subversion
+.svn/
+
+/AntlGrammar/output/
+*.dotCover
+/Report/Informe.bbl
+/Report/Informe.blg
+/Report/Informe.toc
+/Report/informe.bib.bak
+/De Mendiola
+/De Raul Chall
+/De Yosbel
+/De Dayan
+/De Celia
+/De Eric
+/De Keyla
+/De Victor
+/packages

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Othello", "Othello\Othello.csproj", "{5028CE34-CF4E-4E69-8A50-54A529705FEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Othello.Logic", "Othello.Logic\Othello.Logic.csproj", "{C21762C3-DE22-4A0B-B8FA-D15E9223AF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5028CE34-CF4E-4E69-8A50-54A529705FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5028CE34-CF4E-4E69-8A50-54A529705FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5028CE34-CF4E-4E69-8A50-54A529705FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5028CE34-CF4E-4E69-8A50-54A529705FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21762C3-DE22-4A0B-B8FA-D15E9223AF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21762C3-DE22-4A0B-B8FA-D15E9223AF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21762C3-DE22-4A0B-B8FA-D15E9223AF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21762C3-DE22-4A0B-B8FA-D15E9223AF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF66DC54-E741-4F06-9DA5-F9EF7583F0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF66DC54-E741-4F06-9DA5-F9EF7583F0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF66DC54-E741-4F06-9DA5-F9EF7583F0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF66DC54-E741-4F06-9DA5-F9EF7583F0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
